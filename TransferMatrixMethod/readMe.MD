@@ -4,7 +4,6 @@
 
 This project simulates the optical properties (Reflection, Transmission, and Absorption) of thin metal films using the Transfer Matrix Method (TMM). The focus is on comparing **gold (Au)** and **chromium (Cr)** thin films for applications in optical imaging and microfluidic devices.
 
-
 The simulations explore:
 
 - Angular dependence (0–90° incidence)
@@ -24,17 +23,13 @@ The simulations are performed using the Python package:
 ## 🧪 Materials & Optical Constants
 
 Optical constants (n, k) are taken from:
-
-- Johnson & Christy dataset  
-- Source: refractiveindex.info  
+- Johnson & Christy dataset (Source: refractiveindex.info) 
 
 ### Materials:
 - Gold (Au)
 - Chromium (Cr)
 
-Datasets:
-- `gold-Johnson.csv`
-- `chrome-Johnson.csv`
+Datasets:`gold-Johnson.csv` and `chrome-Johnson.csv`
 
 
 
@@ -50,10 +45,7 @@ Datasets:
 
 - Wavelength range: 400–800 nm
 - Normal incidence (0°)
-- Film thickness:
-  - 50 nm Au
-  - 30 nm Au
-  - 30 nm Cr
+- Film thickness: 30 and 50 nm 
 
 ### 3. Multilayer System
 
