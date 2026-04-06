@@ -4,6 +4,8 @@
 
 This project simulates the optical properties (Reflection, Transmission, and Absorption) of thin metal films using the Transfer Matrix Method (TMM). The focus is on comparing **gold (Au)** and **chromium (Cr)** thin films for applications in optical imaging and microfluidic devices.
 
+<img src="d3935482-7231-4886-a37a-d175afcaaf4c.png" width="40%" />
+
 The simulations explore:
 
 * Angular dependence (0–90° incidence)
