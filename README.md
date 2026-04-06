@@ -6,7 +6,7 @@ This repository explores a wide range of concepts in **photonics and optical phy
 
 The goal of this project is to build physical intuition by implementing simulations from first principles as well as using established numerical methods.
 
----
+<img src="https://github.com/user-attachments/assets/4f63598b-e79e-4e1f-83c7-dcd9bd4aa515" width="90%">
 
 ## 🔬 Topics Covered
 
